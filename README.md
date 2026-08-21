@@ -1,4 +1,6 @@
- I'm draco,
+
+ <img width="2048" height="1300" alt="kaneki" src="https://github.com/user-attachments/assets/d5390beb-1fbb-4610-80d8-7ccac6f1bb61" />
+I'm draco,
 Aspiring Cybersecurity Specialist | C++ & Linux Enthusiast
 draco000003
 
@@ -12,8 +14,6 @@ draco000003
 
 💬 Ask me about Linux, C++, Bash, and hardware
 
-Connect with me:
-draco000003
 
 Languages and Tools:
 c++ python
