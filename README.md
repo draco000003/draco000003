@@ -1,5 +1,5 @@
+<img width="924" height="220" alt="IMG_3862" src="https://github.com/user-attachments/assets/b9b22de7-df3f-4a8b-ba1c-b67c2992ea8c" />
 
- <img width="2048" height="1300" alt="kaneki" src="https://github.com/user-attachments/assets/d5390beb-1fbb-4610-80d8-7ccac6f1bb61" />
 I'm draco,
 Aspiring Cybersecurity Specialist | C++ & Linux Enthusiast
 draco000003
